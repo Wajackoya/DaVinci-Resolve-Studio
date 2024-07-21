@@ -6,8 +6,8 @@
   "scripts": {
     "test": "node guru.js",
     "s": "node guru.js",
-    "bmwmd": "pm2 start guru.js --attach",
-    "bmwmd": "pm2 start guru.js --attach",
+    "white-panther-v6": "pm2 start guru.js --attach",
+    "white-panther-v6": "pm2 start guru.js --attach",
     "c": "tsc"
   },
   "keywords": [
@@ -16,9 +16,9 @@
     "WHITE-PANTHER-V6",
     "whatsapp",
     "whatsapp-bot",
-    "Whit-panther-v6-nigga"
+    "White-panther-v6-nigga"
   ],
-  "author": "ibraahadam",
+  "author": "gurumd-tech",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
