@@ -1,9 +1,9 @@
 {
-  "name":"V-6-BMW-XMD",
-  "description":"Deploy now your bot, Bmw was developed by Ibrahim Adams.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"WHITE-PANTHER-V6",
+  "description":"Deploy now your bot, WHITE-PANTHER-V6was developed by OFFICIAL GURU.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
-  "repository":"https://github.com/ibrahimaitech/BMW-MD",
+  "logo":"https://telegra.ph/file/c894c8ee8dd35b55a131b.jpg",
+  "repository":"https://github.com/GURUMD-TECH/WHITE-PANTHER-V6",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,21 +35,21 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" 𝐁𝐌𝐖-𝐗𝐌𝐃",
+      "value":" 𝑊𝐻𝐼𝑇𝐸 𝑃𝐴𝑁𝑇𝐻𝐸𝑅 𝑉6",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7d07f6bb6562e3c7b9599.mp4",
+      "value":"https://telegra.ph/file/c894c8ee8dd35b55a131b.jpg",
       "required":false
        
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "𝐆𝐔𝐑𝐔"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "254728842688"
   },
     "WARN_COUNT":
   {
