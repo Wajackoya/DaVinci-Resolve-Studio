@@ -69,7 +69,7 @@
 ## Support 🧧 🧧 🧧 🧧
 ## Join my channel for updates
 <a href="https://t.me/botgurumd" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="telegram channel"src="https://img.shields.io/badge/ telegram channel support-25D366?style=for-the-badge&logo=telegram &logoColor=white" />
   </a>
 </p>
 
