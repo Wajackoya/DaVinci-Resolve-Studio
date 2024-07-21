@@ -1,5 +1,5 @@
 
-# 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎𝐍 𝐈𝐒 𝐍𝐎 𝐋𝐎𝐍𝐆𝐄𝐑 𝐀𝐏𝐃𝐀𝐓𝐄𝐃 𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐄 𝐍𝐄𝐖 𝐑𝐄𝐏𝐎
+# 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎  𝐈𝐒 𝐍𝐎 𝐋𝐎𝐍𝐆𝐄𝐑 𝐀𝐏𝐃𝐀𝐓𝐄𝐃 𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐄 𝐍𝐄𝐖 𝐑𝐄𝐏𝐎
 <p align="center">  
  <a href="https://github.com/GURUMD-TECH/WHITE-PANTHER-V6"><img title="Open New repo" src="https://img.shields.io/badge/Open New Repo-h?color=pink&style=for-the-badge&logo=bmw" width="300" height="40.45"/></a></p>
 
