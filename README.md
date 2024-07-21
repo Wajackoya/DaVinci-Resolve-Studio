@@ -1,5 +1,5 @@
 
-# This repo is will know longer be updated tap on open new repo
+# 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎𝐍𝐈𝐒 𝐍𝐎 𝐋𝐎𝐍𝐆𝐄𝐑 𝐀𝐏𝐃𝐀𝐓𝐄𝐃 𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐄 𝐍𝐄𝐖 𝐑𝐄𝐏𝐎
 <p align="center">  
  <a href="https://github.com/GURUMD-TECH/WHITE-PANTHER-V6"><img title="Open New repo" src="https://img.shields.io/badge/Open New Repo-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
@@ -35,7 +35,7 @@
 
 </p>
 
-- <a href="https://github.com/ibrahimaitech/BMW-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/GURUMD-TECH/WHITE-PANTHER-V6"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 
@@ -56,7 +56,7 @@
 
 </p>
 
-- <a href="https://github.com/ibrahimaitech/BMW-MD-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/GURUMD-TECH/WHITE-PANTHER-V6-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 
@@ -67,7 +67,7 @@
 
 ## Support 🧧 🧧 🧧 🧧
 ## Join my channel for updates
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://t.me/botgurumd" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -76,7 +76,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/message/74F2PC4JA4F3P1">
+   <a href="t.me/Guru_1st">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
