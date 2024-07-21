@@ -1,22 +1,22 @@
 {
-  "name": "Bmw-md",
+  "name": "WHITE-PANTHER-V6",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "guru.js",
   "scripts": {
-    "test": "node ibrahim.js",
-    "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach",
-    "bmwmd": "pm2 start ibrahim.js --attach",
+    "test": "node guru.js",
+    "s": "node guru.js",
+    "bmwmd": "pm2 start guru.js --attach",
+    "bmwmd": "pm2 start guru.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "WHITE-PANTHER-V6",
     "whatsapp",
     "whatsapp-bot",
-    "bmw-md-boy"
+    "Whit-panther-v6-nigga"
   ],
   "author": "ibraahadam",
 "license": "ISC",
