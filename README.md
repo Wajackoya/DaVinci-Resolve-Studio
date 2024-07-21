@@ -5,12 +5,12 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/c894c8ee8dd35b55a131b.jpg">
+    <img alt="wasi" height="600" src="https://telegra.ph/file/c894c8ee8dd35b55a131b.jpg">
     <h1 align="center">WHITE PANTHER V6</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/ibrahimaitech/BMW-MD"><img title="Author" src="https://img.shields.io/badge/ibrahimaitech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25471077266"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/GURUMD-TECH/WHITE-PANTHER-V6"><img title="Author" src="https://img.shields.io/badge/ibrahimaitech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25471077266"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/gurumd-tech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/gurumd-tech?label=Followers&style=social"></a>
