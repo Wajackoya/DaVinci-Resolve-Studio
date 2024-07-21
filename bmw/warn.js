@@ -11,10 +11,10 @@ zokou(
     },async (dest,zk,commandeOptions) => {
 
  const {ms , arg, repondre,superUser,verifGroupe,verifAdmin , msgRepondu , auteurMsgRepondu} = commandeOptions;
-if(!verifGroupe ) {repondre('this is a group commands') ; return};
+if(!verifGroupe ) {repondre('yow nigga this is a group commands') ; return};
 
 if(verifAdmin || superUser) {
-   if(!msgRepondu){repondre('reply a message of user to warn'); return};
+   if(!msgRepondu){repondre('yow nigga reply a message of user to warn'); return};
    
    if (!arg || !arg[0] || arg.join('') === '') {
     await ajouterUtilisateurAvecWarnCount(auteurMsgRepondu)
@@ -33,7 +33,7 @@ if(verifAdmin || superUser) {
     repondre("Warn count is reset for this user")} else ( repondre('reply to a user by typing  .warn ou .warn reset'))
    
 }  else {
-    repondre('you are not admin')
+    repondre('yow nigga you are not admin')
 }
  
    });
